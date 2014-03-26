@@ -1,0 +1,330 @@
+                  TOPIC_1	0.00516	                  TOPIC_2	0.00378	                  TOPIC_3	0.00617	                  TOPIC_4	0.00139	
+
+    IllegalStateException	0.43253	                        0	0.65023	                      cmu	0.92954	                   Mellon	0.19414	
+                        '	0.05430	                     data	0.07031	   IllegalAccessException	0.00846	                    gridx	0.10900	
+                      Vol	0.04786	                   always	0.05775	                      742	0.00155	                    drawn	0.07495	
+                   length	0.03590	                   Logger	0.01256	             Encapsulated	0.00078	                   attach	0.05111	
+                    Ariel	0.02486	             getClassName	0.01131	                    vitor	0.00078	                    gridy	0.04090	
+                        K	0.02025	                    named	0.01131	                MAX_VALUE	0.00078	                  weightx	0.04090	
+                predicted	0.01197	               MyControls	0.01131	              numGivenNeg	0.00078	                     dest	0.03068	
+
+
+                  TOPIC_5	0.00436	                  TOPIC_6	0.00272	                  TOPIC_7	0.00616	                  TOPIC_8	0.00317	
+
+                   import	0.67708	                 Instance	0.32831	                      int	0.75001	               minorthird	0.60570	
+             BorderLayout	0.10451	                    query	0.12575	                  learner	0.16710	                 DATA_DIR	0.11068	
+             TitledBorder	0.05988	                      org	0.08733	                tutorials	0.01387	             TestInstance	0.04189	
+                  assumes	0.03702	             transforming	0.08733	    testFilewithLabelFile	0.00232	                    event	0.03740	
+                      log	0.01090	                  trigger	0.03494	             getNumLabels	0.00232	                     java	0.02245	
+                      nec	0.00981	                    Split	0.01399	                     does	0.00155	                   textui	0.01647	
+                     test	0.00654	       LineProcessingUtil	0.01399	                   Starts	0.00155	                    Vitor	0.01198	
+
+
+                  TOPIC_9	0.00772	                 TOPIC_10	0.00341	                 TOPIC_11	0.01010	                 TOPIC_12	0.00502	
+
+                 Williams	0.12841	                  William	0.12263	                     true	0.56186	                   little	0.70940	
+                        )	0.04363	                      Try	0.06690	                classpath	0.07987	                20080314L	0.06708	
+                    drawn	0.04363	                  because	0.04460	      dataPropertiesFound	0.06671	                  teacher	0.03496	
+         completeTraining	0.02950	               addExample	0.04042	                  prepare	0.04886	                     true	0.01890	
+                    speed	0.02397	                       an	0.02928	              checkResult	0.04839	                 messages	0.01796	
+                       li	0.02151	                  Edoardo	0.02788	                  docList	0.03571	              conventions	0.00757	
+                   parent	0.01905	          setInstancePool	0.02370	                   author	0.02067	                   Loaded	0.00662	
+
+
+                 TOPIC_13	0.00920	                 TOPIC_14	0.00174	                 TOPIC_15	0.02774	                 TOPIC_16	0.00278	
+
+                        [	0.95327	                      All	0.11489	           classification	0.26254	                   schema	0.81790	
+                   schema	0.00258	               setClosure	0.06293	             getClassName	0.10519	                      int	0.02904	
+                 modified	0.00258	                     with	0.03284	                        0	0.09305	          showTestDetails	0.00685	
+          compactInstance	0.00207	                    array	0.03011	                  because	0.06346	                  hasType	0.00343	
+                    53668	0.00104	                  nothing	0.03011	               addExample	0.04071	                      Gum	0.00343	
+                         	0.00001	                     grow	0.02738	               addNumeric	0.02839	                      241	0.00172	
+                  package	0.00001	                     List	0.02464	          setInstancePool	0.02634	                  message	0.00172	
+
+
+                 TOPIC_17	0.00571	                 TOPIC_18	0.01480	                 TOPIC_19	0.00297	                 TOPIC_20	0.00949	
+
+                     size	0.15633	                        /	0.75842	                   signal	0.20587	                    DEBUG	0.96167	
+                  sample1	0.05406	                 Iterator	0.14072	                 Examples	0.13566	        createEmptyBorder	0.00051	
+                      log	0.03576	                   author	0.02693	                      gbc	0.08938	         stackTestDataset	0.00051	
+                  subSpan	0.02662	                    batch	0.00641	               classifier	0.06704	                         	0.00001	
+                    docId	0.02412	                configure	0.00449	                setAnswer	0.03353	                  package	0.00001	
+                   static	0.01498	                  Dataset	0.00385	                    gridx	0.03353	                      edu	0.00001	
+                        e	0.01498	          initializations	0.00385	                 Teachers	0.02874	                        .	0.00001	
+
+
+                 TOPIC_21	0.00415	                 TOPIC_22	0.00156	                 TOPIC_23	0.00922	                 TOPIC_24	0.00382	
+
+                20080207L	0.08004	                        9	0.15825	                        p	0.91169	                     prop	0.18021	
+                    super	0.02974	                      pc3	0.04871	                Copyright	0.02573	         CrossValSplitter	0.13920	
+                     void	0.02402	                  provide	0.03654	                setAnswer	0.00721	                 AdaBoost	0.06712	
+                  lastObj	0.01830	             getReduction	0.03350	                 callMain	0.00618	                    SOUTH	0.06339	
+      DecisionTreeLearner	0.01716	                installed	0.03046	              extractions	0.00464	                 Reserved	0.04848	
+                 20071015	0.01602	                    which	0.02741	                      Jan	0.00155	               algorithms	0.04351	
+                        +	0.01487	                      dir	0.02741	                 getLabel	0.00103	                   Logger	0.03854	
+
+
+                 TOPIC_25	0.00286	                 TOPIC_26	0.00268	                 TOPIC_27	0.00784	                 TOPIC_28	0.01936	
+
+          getInnerLearner	0.46054	                getLogger	0.68594	                     Note	0.42988	                 classify	0.97950	
+                    final	0.06959	                     they	0.02654	                      edu	0.06237	                     TODO	0.00172	
+          LongTestPackage	0.06628	                 negative	0.02123	                     used	0.03391	                      tag	0.00025	
+                errorRate	0.02818	                   UIMain	0.02123	            ExampleSchema	0.02907	               usermanual	0.00025	
+                      dir	0.02321	                   Accept	0.01770	                     line	0.02665	                         	0.00000	
+             HiliteColors	0.00996	UnsupportedOperationException	0.01770	                  prepare	0.01878	                  package	0.00000	
+                       pi	0.00996	                      GUI	0.01062	                  learner	0.01575	                      edu	0.00000	
+
+
+                 TOPIC_29	0.00155	                 TOPIC_30	0.00922	                 TOPIC_31	0.00207	                 TOPIC_32	0.00183	
+
+                   actual	0.10380	                      edu	0.79479	                      out	0.61289	                   Loaded	0.16121	
+                     like	0.05802	                setSchema	0.09626	                resources	0.02527	           unsortedLabels	0.05722	
+               SpanViewer	0.05497	                      cmu	0.02626	           MTFeatureTypes	0.02298	                    label	0.04942	
+               getTopNode	0.03971	       toInstanceIterator	0.02317	                     fill	0.02068	                       io	0.03642	
+                    every	0.03665	            ExampleSchema	0.00876	                extracted	0.02068	                  current	0.03642	
+               perceptron	0.03360	                        /	0.00515	                     fail	0.01609	                   Viewer	0.03382	
+                      has	0.03055	               getDetails	0.00206	      MonotonicTextLabels	0.01380	BatchSequenceClassifierLearner	0.02602	
+
+
+                 TOPIC_33	0.00123	                 TOPIC_34	0.00123	                 TOPIC_35	0.02243	                 TOPIC_36	0.00309	
+
+                        \	0.09632	                   chosen	0.20107	                describes	0.29112	                 Williams	0.52483	
+                      bad	0.05781	                  William	0.12375	                      for	0.09457	                 training	0.21332	
+                  suppose	0.03085	          actualTestError	0.06963	                        v	0.03068	                   public	0.02610	
+                    super	0.02700	                   UIMain	0.05803	                        /	0.03004	                        a	0.01383	
+                specified	0.02315	                 ordinary	0.04643	                     used	0.02454	        splitIntoRankings	0.01076	
+              toUpperCase	0.01929	                    rnorm	0.01937	                    Learn	0.01925	           CharAnnotation	0.00922	
+                      Row	0.01544	                  Wolpert	0.01164	                  learner	0.01820	                toDataset	0.00769	
+
+
+                 TOPIC_37	0.00156	                 TOPIC_38	0.00999	                 TOPIC_39	0.00118	                 TOPIC_40	0.01194	
+
+             componentFor	0.28214	                setAnswer	0.96122	              numFeatures	0.09217	                      int	0.95323	
+           classification	0.20024	                   bounds	0.00095	               implements	0.04410	                        a	0.00597	
+                    would	0.04250	                      000	0.00048	           addApplyButton	0.03609	                        v	0.00557	
+           newHistorySize	0.03036	                       gt	0.00048	               categories	0.03208	                        ;	0.00438	
+                        %	0.02126	                     Leaf	0.00048	           CharAnnotation	0.03208	                   object	0.00080	
+                   report	0.02126	                    Ramon	0.00048	                  forName	0.02808	                  oldType	0.00040	
+               classPanel	0.01823	                      lbj	0.00048	                     site	0.02407	                         	0.00000	
+
+
+                 TOPIC_41	0.01946	                 TOPIC_42	0.00157	                 TOPIC_43	0.01178	                 TOPIC_44	0.00262	
+
+                  between	0.96839	                 protocol	0.12705	                   schema	0.94576	                 DATA_DIR	0.42342	
+                  appears	0.00512	                   Lastly	0.04842	               getDetails	0.01330	               minorthird	0.12849	
+                splitPane	0.00147	             getTokenProp	0.03935	                      one	0.00685	                  feature	0.03983	
+             setSuperView	0.00098	                 Expected	0.03632	          FileInputStream	0.00121	                        @	0.03259	
+           getContentPane	0.00098	                     span	0.02422	   BatchClassifierLearner	0.00081	                    break	0.02897	
+                JCheckBox	0.00073	                      net	0.02120	      dataPropertiesFound	0.00081	      ClassifierAnnotator	0.01630	
+                     LEFT	0.00049	                  improve	0.01818	              setTextBase	0.00041	                     Aaaa	0.01630	
+
+
+                 TOPIC_45	0.00260	                 TOPIC_46	0.00196	                 TOPIC_47	0.00654	                 TOPIC_48	0.00253	
+
+                        9	0.70484	                 features	0.19147	                        .	0.93856	                     will	0.34668	
+                  asFiles	0.02193	               TestRunner	0.07515	         wolpert92stacked	0.00509	                      sum	0.05623	
+                findClass	0.01463	                   Logger	0.06061	               Dimensions	0.00073	                    Press	0.04312	
+                      s_t	0.01280	                toDataset	0.02668	       PlainToTokenParser	0.00073	      errorOnThisSequence	0.03187	
+              doubleValue	0.01280	                addBinary	0.01699	                      gnu	0.00073	                   object	0.02250	
+          NULL_CLASS_NAME	0.00915	                 TestCase	0.01699	                         	0.00001	                   ranked	0.02250	
+                something	0.00732	           SplitTokenizer	0.01699	                  package	0.00001	                increment	0.02063	
+
+
+                 TOPIC_49	0.00177	                 TOPIC_50	0.03370	                 TOPIC_51	0.00617	                 TOPIC_52	0.00754	
+
+                        K	0.12883	                      edu	0.98724	                     util	0.33625	                setSchema	0.94420	
+           activeLearning	0.09395	       toInstanceIterator	0.00085	                ArrayList	0.13466	     SeminarAnnouncements	0.00315	
+                    match	0.05906	                      one	0.00071	              PrintStream	0.08541	                 TestCase	0.00127	
+                   create	0.04296	                 teachers	0.00042	                  HashMap	0.05156	                     RD11	0.00127	
+           generalization	0.02954	           activeLearning	0.00028	             finalLearner	0.04002	                    log10	0.00127	
+                     Note	0.02418	                         	0.00000	               classPanel	0.03155	                     log2	0.00127	
+                   kernel	0.02418	                  package	0.00000	                  subspan	0.02540	             instantiable	0.00064	
+
+
+                 TOPIC_53	0.02706	                 TOPIC_54	0.00815	                 TOPIC_55	0.00841	                 TOPIC_56	0.02654	
+
+                setSchema	0.98656	                   always	0.81962	    IllegalStateException	0.50151	                        :	0.92659	
+                implement	0.00035	                    javax	0.09729	            labelInstance	0.26796	                      edu	0.01645	
+                         	0.00000	                predicted	0.01224	                   length	0.08068	            ExampleSchema	0.01001	
+                  package	0.00000	              sequenceErr	0.00874	                        K	0.01354	                 Iterator	0.00840	
+                      edu	0.00000	                     byte	0.00583	             innerLearner	0.01129	                      int	0.00840	
+                        .	0.00000	                     trim	0.00350	                      Vol	0.00903	                setSchema	0.00697	
+                      cmu	0.00000	                       20	0.00234	       CLOSE_BY_OPERATION	0.00790	                        /	0.00393	
+
+
+                 TOPIC_57	0.02316	                 TOPIC_58	0.02572	                 TOPIC_59	0.00345	                 TOPIC_60	0.00791	
+
+                Cloneable	0.97507	                      edu	0.98568	                        J	0.38069	                 Instance	0.45274	
+                 textbase	0.00963	                   subtly	0.00037	                  example	0.03712	             transforming	0.12173	
+                         	0.00000	                      baz	0.00019	                       at	0.02612	                        /	0.08156	
+                  package	0.00000	                         	0.00000	                  USE_XML	0.02063	                    Split	0.07316	
+                      edu	0.00000	                  package	0.00000	                  skipped	0.02063	    IllegalStateException	0.04078	
+                        .	0.00000	                        .	0.00000	                     that	0.01513	                   length	0.02339	
+                      cmu	0.00000	                      cmu	0.00000	                       no	0.01376	               sortedTags	0.01740	
+
+
+                 TOPIC_61	0.00117	                 TOPIC_62	0.02463	                 TOPIC_63	0.00286	                 TOPIC_64	0.02976	
+
+                      not	0.05274	                      edu	0.97926	                     form	0.13797	                setSchema	0.98682	
+                canHandle	0.04869	                      Run	0.00154	                        <	0.11969	                      one	0.00032	
+                       03	0.02842	                  advance	0.00058	                      edu	0.10805	               designated	0.00016	
+                  Quinten	0.02437	       getMultiClassifier	0.00058	                 animated	0.10140	                  keyword	0.00016	
+                splitting	0.02031	                 Decision	0.00039	                     back	0.05653	              filesToLoad	0.00016	
+                      Nov	0.02031	                 Announce	0.00039	                       ol	0.04323	                  wordSet	0.00016	
+                      may	0.01626	                  library	0.00039	                 textBase	0.03991	                startType	0.00016	
+
+
+                 TOPIC_65	0.00238	                 TOPIC_66	0.00479	                 TOPIC_67	0.00331	                 TOPIC_68	0.00241	
+
+              InputStream	0.15550	   MultiClassifierTeacher	0.70887	                      for	0.51316	                     data	0.46293	
+              constraints	0.09969	        SequenceConstants	0.11898	                    Learn	0.06165	                     2003	0.11230	
+                      put	0.08175	                    Cohen	0.03967	                     type	0.02725	                     need	0.10639	
+               Comparator	0.07378	                getLogger	0.02678	                 override	0.01865	                  Instead	0.05124	
+                 addWords	0.05783	                  offsets	0.00596	                    being	0.01865	                 Overload	0.01578	
+          StringTokenizer	0.05583	              researchers	0.00497	                        +	0.01578	              interpreter	0.01381	
+                   token_	0.02992	                    means	0.00398	                     same	0.01148	                 reducing	0.01184	
+
+
+                 TOPIC_69	0.00131	                 TOPIC_70	0.05012	                 TOPIC_71	0.00207	                 TOPIC_72	0.00836	
+
+                constants	0.10847	                 classify	0.99056	                        \	0.21071	                    Cohen	0.82716	
+                   detail	0.04703	                Cloneable	0.00104	                 predicts	0.19010	   MultiClassifierTeacher	0.06638	
+         NegativeBinomial	0.03618	                   schema	0.00047	                    small	0.06873	         CrossValSplitter	0.03348	
+          ComponentViewer	0.03257	            applyControls	0.00038	                documents	0.04354	        SequenceConstants	0.02383	
+                  options	0.02895	                      one	0.00028	                splitpane	0.04124	           TextBaseViewer	0.00284	
+                      you	0.02895	                 followed	0.00010	              JScrollPane	0.02521	                       be	0.00171	
+                  initial	0.02534	                 allNames	0.00010	                 callMain	0.02521	           setAggregators	0.00171	
+
+
+                 TOPIC_73	0.00319	                 TOPIC_74	0.00403	                 TOPIC_75	0.00816	                 TOPIC_76	0.01261	
+
+                  between	0.51142	                     next	0.30520	           activeLearning	0.94784	                        a	0.95346	
+                         	0.35383	                        j	0.05539	                        p	0.00582	                   rcwang	0.00828	
+                     code	0.00745	                      buf	0.04479	                      int	0.00117	                    Start	0.00339	
+                  Between	0.00447	                      ops	0.03065	                 software	0.00117	                Evaluates	0.00189	
+                   Parent	0.00299	                  setView	0.02476	             Transactions	0.00059	                setSchema	0.00076	
+                  Extends	0.00150	                       Do	0.01769	                         	0.00001	                    53688	0.00076	
+                dumpStuff	0.00150	                 checking	0.01651	                  package	0.00001	                    52774	0.00076	
+
+
+                 TOPIC_77	0.00214	                 TOPIC_78	0.00938	                 TOPIC_79	0.00384	                 TOPIC_80	0.00800	
+
+                    log4j	0.38748	                        ;	0.96223	                        :	0.65955	                        j	0.12926	
+                     stem	0.15722	                         	0.00001	             DOC_PER_FILE	0.08276	                        e	0.05811	
+                     made	0.15279	                  package	0.00001	                     File	0.05436	                     seen	0.04388	
+              getControls	0.02438	                      edu	0.00001	   InstantiationException	0.01730	                     used	0.02491	
+                 returned	0.01773	                        .	0.00001	                     Note	0.01360	             getTokenizer	0.01720	
+                    loads	0.01773	                      cmu	0.00001	                       IO	0.00742	                     next	0.01542	
+                  HMMAlgo	0.00888	               minorthird	0.00001	         charIndexSubSpan	0.00619	                Directive	0.01542	
+
+
+                 TOPIC_81	0.01407	                 TOPIC_82	0.00591	                 TOPIC_83	0.00250	                 TOPIC_84	0.00162	
+
+                setSchema	0.97281	                     next	0.07146	                   System	0.65953	                       be	0.41565	
+                envelopes	0.00101	                   Object	0.04737	                       FP	0.03603	                    catch	0.07320	
+    BINARY_EXAMPLE_SCHEMA	0.00068	                  sample1	0.04737	                increment	0.03224	                    after	0.04979	
+                  negTest	0.00034	                      ops	0.03934	                     real	0.01329	              transformed	0.04686	
+                         	0.00000	                      buf	0.03051	               characters	0.01139	           TextClassifier	0.03515	
+                  package	0.00000	                     size	0.02891	                  mpColor	0.01139	   DataClassificationTask	0.02344	
+                      edu	0.00000	                        w	0.02811	                 TestCase	0.01139	                       Id	0.01466	
+
+
+                 TOPIC_85	0.00156	                 TOPIC_86	0.02903	                 TOPIC_87	0.00291	                 TOPIC_88	0.00489	
+
+                  teacher	0.07587	                implement	0.77726	                  prepare	0.45304	                      edu	0.92660	
+                 expected	0.03643	                 teachers	0.18945	             BorderLayout	0.20045	                     1992	0.00098	
+                     unit	0.03340	                 iterator	0.01373	               SpanViewer	0.03587	                         	0.00001	
+            answeredQuery	0.03036	                getLogger	0.00670	           classLabelName	0.02446	                  package	0.00001	
+                   layout	0.02733	                     vote	0.00033	         ControlledViewer	0.01957	                        .	0.00001	
+                   unique	0.02430	                      Say	0.00017	            MixupDebugger	0.01794	                      cmu	0.00001	
+         instanceIterator	0.02430	               assertions	0.00017	         serialVersionUID	0.01631	               minorthird	0.00001	
+
+
+                 TOPIC_89	0.01201	                 TOPIC_90	0.00149	                 TOPIC_91	0.01676	                 TOPIC_92	0.00462	
+
+                 emptySet	0.07745	             MultiDataset	0.10491	                        /	0.90470	                        =	0.81652	
+                        e	0.07469	                predicted	0.08266	                  example	0.01217	                documents	0.08012	
+                     seen	0.07469	                    where	0.06995	               Classifier	0.00906	   BatchClassifierLearner	0.01233	
+                  explain	0.04505	              EndFeatures	0.03499	           activeLearning	0.00708	                getLogger	0.00309	
+        transformInstance	0.02766	                    quick	0.02863	                       li	0.00482	                  illegal	0.00206	
+         equalsIgnoreCase	0.02292	                     when	0.02228	                     with	0.00340	                 negative	0.00206	
+                  DEFAULT	0.02134	                     Node	0.02228	            UnionIterator	0.00283	                 messages	0.00104	
+
+
+                 TOPIC_93	0.00221	                 TOPIC_94	0.00218	                 TOPIC_95	0.00438	                 TOPIC_96	0.02731	
+
+                   apache	0.14574	                   class_	0.28346	                     text	0.08554	                 Iterator	0.97018	
+              setProperty	0.12002	                 getTrain	0.15918	           getExplanation	0.06280	                isCorrect	0.00938	
+                   needed	0.10717	                     make	0.09159	               addNumeric	0.05090	                        /	0.00296	
+                  weightx	0.10288	          closeTypeInside	0.07851	                tableData	0.03682	                   epochs	0.00070	
+                    gridy	0.09002	                extracted	0.03491	                   JPanel	0.03357	                       13	0.00052	
+                     name	0.06431	                    catch	0.02182	          ComponentViewer	0.03033	                     stat	0.00052	
+                   append	0.04716	                   POLICY	0.01746	               addExample	0.02924	                 statsoft	0.00035	
+
+
+                 TOPIC_97	0.00381	                 TOPIC_98	0.02851	                 TOPIC_99	0.00435	                TOPIC_100	0.00299	
+
+                 iterator	0.36086	           activeLearning	0.96610	   BatchClassifierLearner	0.70365	                  prepare	0.67975	
+                     long	0.20906	                     data	0.01598	                        [	0.08292	           transformToken	0.03178	
+               getDetails	0.20906	                     Note	0.00217	                 negative	0.05347	                   labels	0.02225	
+                 Teachers	0.05849	                setAnswer	0.00133	                    gridx	0.00983	                     once	0.02066	
+      dataPropertiesFound	0.01246	                        p	0.00100	                 continue	0.00874	               20Tutorial	0.01272	
+                      foo	0.01121	                     made	0.00083	            realClassName	0.00765	                   ranked	0.01113	
+                  assumes	0.01121	                   chosen	0.00017	                    newEx	0.00765	                     true	0.00954	
+
+
+                TOPIC_101	0.01634	                TOPIC_102	0.00790	                TOPIC_103	0.00968	                TOPIC_104	0.00661	
+
+                     side	0.19665	                       be	0.40285	                  between	0.91241	                 Iterator	0.61107	
+                     used	0.13536	                     they	0.09246	                   Rights	0.02795	                        @	0.12567	
+                    might	0.06797	           classification	0.07445	                      awt	0.00491	                     java	0.11274	
+                 training	0.04880	                        0	0.06725	               textViewer	0.00344	                        }	0.04237	
+                  prepare	0.04212	             getClassName	0.05824	                        :	0.00246	               hasAnswers	0.02083	
+            ExampleSchema	0.03283	             componentFor	0.02882	            trueNegatives	0.00246	               Hyperplane	0.02083	
+                  Queries	0.03079	                    swing	0.01802	                      sec	0.00246	                    junit	0.00503	
+
+
+                TOPIC_105	0.01054	                TOPIC_106	0.00381	                TOPIC_107	0.00274	                TOPIC_108	0.00671	
+
+            ExampleSchema	0.91013	                 learners	0.29403	                  package	0.59206	                    Cohen	0.81222	
+                Activates	0.01126	                 predicts	0.20309	               loadObject	0.19737	   MultiClassifierTeacher	0.05020	
+                      int	0.01036	                   active	0.10716	                    throw	0.04503	                setAnswer	0.03464	
+                Sometimes	0.00901	              independent	0.03614	          closureIterator	0.01214	        SequenceConstants	0.03182	
+                  reduces	0.00271	                algorithm	0.01995	                stringBag	0.00348	            labelInstance	0.01485	
+UnsupportedOperationException	0.00180	                   docNum	0.01621	                   hereby	0.00348	               Sequential	0.00071	
+                       is	0.00090	                 building	0.01247	                     File	0.00175	                 Classify	0.00071	
+
+
+                TOPIC_109	0.00181	                TOPIC_110	0.00152	                TOPIC_111	0.00474	                TOPIC_112	0.00600	
+
+                describes	0.38519	                  hasNext	0.43039	                  package	0.91323	                   length	0.50568	
+                 Carnegie	0.14937	               isNegative	0.09983	                      Jan	0.00802	                      out	0.05699	
+                      org	0.02885	                   voting	0.02810	               Irrelevant	0.00201	    IllegalStateException	0.05619	
+                 Learners	0.02361	                   answer	0.01562	                    sucks	0.00101	                        K	0.05224	
+                   higher	0.01575	           getExplanation	0.01251	                      dat	0.00101	             innerLearner	0.01663	
+                    radar	0.01575	                   entity	0.01251	                         	0.00001	                 official	0.01663	
+                      The	0.01313	                     LBJ2	0.01251	                      edu	0.00001	                    super	0.01583	
+
+
+                TOPIC_113	0.00222	                TOPIC_114	0.00487	                TOPIC_115	0.00186	                TOPIC_116	0.00454	
+
+        ClassifierLearner	0.45120	                     java	0.44070	                        i	0.26301	                   static	0.40663	
+                 toString	0.25020	               Hyperplane	0.12676	                   return	0.23748	                        1	0.20280	
+                     link	0.02996	                 DATA_DIR	0.10921	                        !	0.06130	                    might	0.13904	
+                    swing	0.01713	               minorthird	0.09751	                    check	0.03066	                algorithm	0.06377	
+                  trivial	0.01499	                    javax	0.04876	                  shuffle	0.02045	               minorthird	0.04809	
+                        :	0.01285	               hasAnswers	0.03901	     getSpansWithProperty	0.02045	                   called	0.00837	
+                      hyp	0.00857	                    junit	0.02536	                        '	0.01534	                   DUBLIN	0.00628	
+
+
+                TOPIC_117	0.06456	                TOPIC_118	0.00201	                TOPIC_119	0.00150	                TOPIC_120	0.00130	
+
+                   schema	0.99341	                    order	0.24372	                20080314L	0.19011	               TextLabels	0.06557	
+                implement	0.00044	                      one	0.19167	                  boolean	0.10774	   MultiClassifierLearner	0.05829	
+                     trim	0.00037	                     that	0.05444	              programFile	0.06339	                    scale	0.03645	
+                   Dieter	0.00015	          extractFeatures	0.04971	                 getLabel	0.04122	                 Williams	0.03280	
+                20080207L	0.00007	       setBottomComponent	0.04025	                  labeled	0.03805	                      txt	0.02916	
+                      edo	0.00007	                        @	0.02605	                    After	0.02854	                      001	0.02188	
+                         	0.00000	                 20071015	0.01895	                       so	0.02538	                        d	0.02188	
+
+

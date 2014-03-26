@@ -1,0 +1,12 @@
+package edu.cmu.minorthird.text.learn;
+
+import edu.cmu.minorthird.text.*;
+
+
+public interface ExtractorAnnotator extends Annotator
+{
+	/** The spanType used to encode the spans extracted by the
+	 * ExtractorAnnotator. */
+	public String getSpanType();
+}
+

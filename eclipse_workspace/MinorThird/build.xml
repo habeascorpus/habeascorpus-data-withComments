@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<project name="MinorThird" default="build">
+	<description>Regular build file for MinorThird</description>
+	<import file="./tasks.xml"/>
+</project>

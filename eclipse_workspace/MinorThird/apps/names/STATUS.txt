@@ -1,0 +1,4 @@
+need to do: add back a loadLabels that does this:
+
+//MixupProgram program = new MixupProgram(new File("nameFeatures.mixup"));
+//program.eval(labels,base);

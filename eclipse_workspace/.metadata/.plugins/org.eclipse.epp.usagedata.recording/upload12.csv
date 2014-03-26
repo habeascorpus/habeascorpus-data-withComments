@@ -1,0 +1,227 @@
+what,kind,bundleId,bundleVersion,description,time
+arch,sysinfo,,,"x86_64",1359054137931
+ws,sysinfo,,,"gtk",1359054137931
+locale,sysinfo,,,"en_US",1359054137931
+processors,sysinfo,,,"4",1359054137931
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1359054137931
+java.runtime.version,sysinfo,,,"1.7.0_07-b10",1359054137931
+java.specification.name,sysinfo,,,"Java Platform API Specification",1359054137931
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1359054137931
+java.specification.version,sysinfo,,,"1.7",1359054137931
+java.vendor,sysinfo,,,"Oracle Corporation",1359054137931
+java.version,sysinfo,,,"1.7.0_07",1359054137931
+java.vm.info,sysinfo,,,"mixed mode",1359054137931
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1359054137931
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1359054137931
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1359054137931
+java.vm.specification.version,sysinfo,,,"1.7",1359054137931
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1359054137931
+java.vm.version,sysinfo,,,"23.3-b01",1359054137931
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1359054138483
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1359054139354
+started,bundle,CodeWalker,1.0.0.qualifier,"CodeWalker",1359054143034
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/repository-system/maven-core-2.1.0.jar [in apache-maven-3.0.4]",1359054143483
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/artifact-install/artifact-1.0.jar [in apache-maven-3.0.4]",1359054143484
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t04/maven-test/jars/t04-a-1.0.jar [in apache-maven-3.0.4]",1359054143484
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t04/maven-test/jars/t04-b-1.0.jar [in apache-maven-3.0.4]",1359054143485
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t04/maven-test/jars/t04-b-2.0.jar [in apache-maven-3.0.4]",1359054143486
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t04/maven-test/jars/t04-c-1.0.jar [in apache-maven-3.0.4]",1359054143487
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t04/maven-test/jars/t04-c-2.0.jar [in apache-maven-3.0.4]",1359054143488
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t05/maven-test/jars/t05-a-1.0.jar [in apache-maven-3.0.4]",1359054143488
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t05/maven-test/jars/t05-a-2.0.jar [in apache-maven-3.0.4]",1359054143489
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t05/maven-test/jars/t05-b-1.0.jar [in apache-maven-3.0.4]",1359054143489
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t05/maven-test/jars/t05-b-1.1.jar [in apache-maven-3.0.4]",1359054143490
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t05/maven-test/jars/t05-b-2.0.jar [in apache-maven-3.0.4]",1359054143490
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t05/maven-test/jars/t05-c-1.0.jar [in apache-maven-3.0.4]",1359054143490
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t05/maven-test/jars/t05-d-1.0.jar [in apache-maven-3.0.4]",1359054143491
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t05/maven-test/jars/t05-d-1.1.jar [in apache-maven-3.0.4]",1359054143491
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t05/maven-test/jars/t05-d-1.2.jar [in apache-maven-3.0.4]",1359054143492
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t06/maven-test/jars/t06-a-1.0.jar [in apache-maven-3.0.4]",1359054143493
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t06/maven-test/jars/t06-b-1.0.jar [in apache-maven-3.0.4]",1359054143493
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t06/maven-test/jars/t06-b-1.1.jar [in apache-maven-3.0.4]",1359054143494
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t06/maven-test/jars/t06-c-1.0.jar [in apache-maven-3.0.4]",1359054143494
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t06/maven-test/jars/t06-d-1.0.jar [in apache-maven-3.0.4]",1359054143495
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t06/maven-test/jars/t06-d-1.1.jar [in apache-maven-3.0.4]",1359054143495
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t06/maven-test/jars/t06-d-1.2.jar [in apache-maven-3.0.4]",1359054143496
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t07/maven-test/jars/t07-a-1.0.jar [in apache-maven-3.0.4]",1359054143496
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t07/maven-test/jars/t07-b-1.0.jar [in apache-maven-3.0.4]",1359054143496
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t07/maven-test/jars/t07-b-1.1.jar [in apache-maven-3.0.4]",1359054143497
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t07/maven-test/jars/t07-c-1.0.jar [in apache-maven-3.0.4]",1359054143497
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t07/maven-test/jars/t07-d-1.0.jar [in apache-maven-3.0.4]",1359054143498
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t07/maven-test/jars/t07-d-1.1.jar [in apache-maven-3.0.4]",1359054143498
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t07/maven-test/jars/t07-d-1.2.jar [in apache-maven-3.0.4]",1359054143499
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t08/maven-test/jars/t08-a-1.0.jar [in apache-maven-3.0.4]",1359054143500
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t08/maven-test/jars/t08-b-1.0.jar [in apache-maven-3.0.4]",1359054143501
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t08/maven-test/jars/t08-b-1.1.jar [in apache-maven-3.0.4]",1359054143502
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t08/maven-test/jars/t08-c-1.0.jar [in apache-maven-3.0.4]",1359054143502
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t08/maven-test/jars/t08-d-1.0.jar [in apache-maven-3.0.4]",1359054143502
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t08/maven-test/jars/t08-d-1.1.jar [in apache-maven-3.0.4]",1359054143503
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t08/maven-test/jars/t08-d-1.2.jar [in apache-maven-3.0.4]",1359054143504
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t09/maven-test/jars/t09-a-1.0.jar [in apache-maven-3.0.4]",1359054143504
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t09/maven-test/jars/t09-b-1.0.jar [in apache-maven-3.0.4]",1359054143505
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t09/maven-test/jars/t09-c-1.0.jar [in apache-maven-3.0.4]",1359054143505
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t09/maven-test/jars/t09-d-1.0.jar [in apache-maven-3.0.4]",1359054143506
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t10/maven-test/jars/t10-a-1.0.jar [in apache-maven-3.0.4]",1359054143506
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t10/maven-test/jars/t10-b-1.0.jar [in apache-maven-3.0.4]",1359054143507
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/inheritance-repo/t10/maven-test/jars/t10-c-1.0.jar [in apache-maven-3.0.4]",1359054143507
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/local-repo/maven-test/jars/maven-test-a-1.0.jar [in apache-maven-3.0.4]",1359054143508
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/local-repo/maven-test/jars/maven-test-b-1.0.jar [in apache-maven-3.0.4]",1359054143508
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/local-repo/maven-test/jars/maven-test-c-1.0.jar [in apache-maven-3.0.4]",1359054143509
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/local-repo/maven-test/jars/maven-test-d-1.0.jar [in apache-maven-3.0.4]",1359054143509
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/local-repo/snapshot-test/jars/maven-snapshot-a-1.0-SNAPSHOT.jar [in apache-maven-3.0.4]",1359054143510
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/local-repo/snapshot-test/jars/maven-snapshot-b-1.0-SNAPSHOT.jar [in apache-maven-3.0.4]",1359054143510
+error,log,,,"Invalid ZIP archive: maven-compat/src/test/resources/local-repo/snapshot-test/jars/maven-snapshot-e-1.0-SNAPSHOT.jar [in apache-maven-3.0.4]",1359054143511
+error,log,,,"Invalid ZIP archive: maven-core/src/test/projects/plugin-manager/project-contributing-system-scope-plugin-dep/tools.jar [in apache-maven-3.0.4]",1359054143511
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/imports-repo/t01/maven-test/jars/maven-test-a-1.0.jar [in apache-maven-3.0.4]",1359054143518
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/imports-repo/t01/maven-test/jars/maven-test-a-1.1.jar [in apache-maven-3.0.4]",1359054143518
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/imports-repo/t01/maven-test/jars/maven-test-b-1.0.jar [in apache-maven-3.0.4]",1359054143519
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/imports-repo/t01/maven-test/jars/maven-test-b-1.1.jar [in apache-maven-3.0.4]",1359054143519
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/imports-repo/t01/maven-test/jars/maven-test-c-1.0.jar [in apache-maven-3.0.4]",1359054143520
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/imports-repo/t01/maven-test/jars/maven-test-c-1.1.jar [in apache-maven-3.0.4]",1359054143520
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/imports-repo/t01/maven-test/jars/maven-test-d-1.0.jar [in apache-maven-3.0.4]",1359054143520
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/imports-repo/t01/maven-test/jars/maven-test-d-1.1.jar [in apache-maven-3.0.4]",1359054143521
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/imports-repo/t01/maven-test/jars/maven-test-d-1.2.jar [in apache-maven-3.0.4]",1359054143521
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/local-repo/maven-test/jars/maven-test-a-1.0.jar [in apache-maven-3.0.4]",1359054143522
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/local-repo/maven-test/jars/maven-test-b-1.0.jar [in apache-maven-3.0.4]",1359054143522
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/local-repo/maven-test/jars/maven-test-c-1.0.jar [in apache-maven-3.0.4]",1359054143522
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/local-repo/maven-test/jars/maven-test-d-1.0.jar [in apache-maven-3.0.4]",1359054143523
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/local-repo/snapshot-test/jars/maven-snapshot-a-1.0-SNAPSHOT.jar [in apache-maven-3.0.4]",1359054143523
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/local-repo/snapshot-test/jars/maven-snapshot-b-1.0-SNAPSHOT.jar [in apache-maven-3.0.4]",1359054143523
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/local-repo/snapshot-test/jars/maven-snapshot-e-1.0-SNAPSHOT.jar [in apache-maven-3.0.4]",1359054143524
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/remote-repo-1/snapshot-test/jars/maven-snapshot-a-1.0-SNAPSHOT.jar [in apache-maven-3.0.4]",1359054143531
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/remote-repo-1/snapshot-test/jars/maven-snapshot-b-1.0-SNAPSHOT.jar [in apache-maven-3.0.4]",1359054143532
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/remote-repo-1/snapshot-test/jars/maven-snapshot-c-1.0-SNAPSHOT.jar [in apache-maven-3.0.4]",1359054143533
+error,log,,,"Invalid ZIP archive: maven-core/src/test/resources/remote-repo-2/maven-test/jars/maven-test-z-1.0.jar [in apache-maven-3.0.4]",1359054143533
+error,log,,,"Invalid ZIP archive: maven-embedder/src/test/error-reporting-projects/bad-ext-plugin-dep-ver/local-repo/org/apache/maven/errortest/bad-ext-plugin-dep-ver-maven-plugin/1/bad-ext-plugin-dep-ver-maven-plugin-1.jar [in apache-maven-3.0.4]",1359054143534
+error,log,,,"Invalid ZIP archive: maven-embedder/src/test/error-reporting-projects/bad-ext-plugin-maven-ver/local-repo/org/apache/maven/errortest/bad-ext-plugin-maven-ver-maven-plugin/1/bad-ext-plugin-maven-ver-maven-plugin-1.jar [in apache-maven-3.0.4]",1359054143534
+error,log,,,"Invalid ZIP archive: maven-embedder/src/test/error-reporting-projects/err-loading-plugin/local-repo/org/apache/maven/errortest/err-loading-plugin-maven-plugin/1/err-loading-plugin-maven-plugin-1.jar [in apache-maven-3.0.4]",1359054143535
+error,log,,,"Invalid ZIP archive: maven-embedder/src/test/error-reporting-projects/err-resolving-ext-plugin/local-repo/org/apache/maven/errortest/err-resolving-ext-plugin-maven-plugin/1/err-resolving-ext-plugin-maven-plugin-1.jar [in apache-maven-3.0.4]",1359054143536
+error,log,,,"Invalid ZIP archive: maven-embedder/src/test/error-reporting-projects/ext-plugin-version-err/local-repo/org/apache/maven/errortest/ext-plugin-version-err-maven-plugin/1/ext-plugin-version-err-maven-plugin-1.jar [in apache-maven-3.0.4]",1359054143536
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1359054297936
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1359054327342
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1359054328648
+closed,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1359054330021
+started,bundle,org.eclipse.compare.core,3.5.200.I20110208-0800,"org.eclipse.compare.core",1359054330618
+started,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1359054330623
+stopped,bundle,CodeWalker,1.0.0.qualifier,"CodeWalker",1359054330774
+stopped,bundle,ca.mcgill.cs.swevo.ppa.ui,1.2.1.201106050716,"ca.mcgill.cs.swevo.ppa.ui",1359054330774
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ant",1359054330775
+stopped,bundle,org.eclipse.mylyn.pde.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.pde.ui",1359054330775
+stopped,bundle,org.eclipse.pde.api.tools.ui,1.0.301.v20110803_r371,"org.eclipse.pde.api.tools.ui",1359054330776
+stopped,bundle,org.eclipse.pde.ds.ui,1.0.100.v20111213-1754,"org.eclipse.pde.ds.ui",1359054330777
+stopped,bundle,org.eclipse.pde.runtime,3.4.201.v20110928-1516,"org.eclipse.pde.runtime",1359054330778
+stopped,bundle,org.eclipse.pde.ua.ui,1.0.100.v20110516,"org.eclipse.pde.ua.ui",1359054330780
+stopped,bundle,org.eclipse.pde.ui.templates,3.4.400.v20110928-1516,"org.eclipse.pde.ui.templates",1359054330782
+stopped,bundle,org.eclipse.rap.ui.launch,1.4.2.20120213-1325,"org.eclipse.rap.ui.launch",1359054330783
+stopped,bundle,org.eclipse.rap.ui.templates,1.4.2.20120213-1325,"org.eclipse.rap.ui.templates",1359054330784
+stopped,bundle,org.eclipse.pde.ui,3.6.100.v20120103_r372,"org.eclipse.pde.ui",1359054330784
+stopped,bundle,org.eclipse.ant.ui,3.5.101.v20120110-1739,"org.eclipse.ant.ui",1359054330785
+stopped,bundle,org.eclipse.ant.launching,1.0.101.v20120110-1739,"org.eclipse.ant.launching",1359054330785
+stopped,bundle,org.eclipse.egit.mylyn.ui,1.3.0.201202151440-r,"org.eclipse.egit.mylyn.ui",1359054330786
+stopped,bundle,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui",1359054330787
+stopped,bundle,org.eclipse.egit.core,1.3.0.201202151440-r,"org.eclipse.egit.core",1359054330787
+stopped,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.200.v20110815-1419,"org.eclipse.equinox.p2.ui.sdk",1359054330787
+stopped,bundle,org.eclipse.mylyn.java.tasks,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.tasks",1359054330788
+stopped,bundle,org.eclipse.mylyn.java.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.java.ui",1359054330789
+stopped,bundle,org.eclipse.jdt.junit,3.7.0.v20110928-1453,"org.eclipse.jdt.junit",1359054330790
+stopped,bundle,org.eclipse.jdt.apt.ui,3.3.300.v20110305-1450,"org.eclipse.jdt.apt.ui",1359054330791
+stopped,bundle,org.eclipse.rap.ui.launch.rwt,1.4.2.20120213-1325,"org.eclipse.rap.ui.launch.rwt",1359054330792
+stopped,bundle,org.eclipse.jdt.debug.ui,3.6.1.v20111006_r372,"org.eclipse.jdt.debug.ui",1359054330793
+stopped,bundle,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui",1359054330796
+stopped,bundle,org.eclipse.wst.dtd.ui,1.0.600.v201103171359,"org.eclipse.wst.dtd.ui",1359054330797
+stopped,bundle,org.eclipse.wst.xsd.ui,1.2.404.v201105050216,"org.eclipse.wst.xsd.ui",1359054330798
+stopped,bundle,org.eclipse.wst.xml.ui,1.1.202.v201112071516,"org.eclipse.wst.xml.ui",1359054330800
+stopped,bundle,org.eclipse.wst.common.ui,1.1.500.v200911190730,"org.eclipse.wst.common.ui",1359054330801
+stopped,bundle,org.eclipse.wst.sse.ui,1.3.2.v201201041522,"org.eclipse.wst.sse.ui",1359054330802
+stopped,bundle,org.eclipse.search,3.7.0.v20110928-1504,"org.eclipse.search",1359054330802
+stopped,bundle,org.eclipse.mylyn.commons.team,0.8.0.v20110608-1400,"org.eclipse.mylyn.commons.team",1359054330803
+stopped,bundle,org.eclipse.mylyn.team.ui,3.6.1.v20110825-0100,"org.eclipse.mylyn.team.ui",1359054330803
+stopped,bundle,org.eclipse.ui.navigator.resources,3.4.300.v20110928-1505,"org.eclipse.ui.navigator.resources",1359054330804
+stopped,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring",1359054330805
+stopped,bundle,org.eclipse.mylyn.bugzilla.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.bugzilla.ui",1359054330805
+stopped,bundle,org.eclipse.mylyn.ide.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.ide.ui",1359054330805
+stopped,bundle,org.eclipse.mylyn.resources.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.resources.ui",1359054330806
+stopped,bundle,org.eclipse.mylyn.wikitext.tasks.ui,1.5.0.v20110608-1400,"org.eclipse.mylyn.wikitext.tasks.ui",1359054330807
+stopped,bundle,org.eclipse.mylyn.context.ui,3.6.1.v20120112-0100,"org.eclipse.mylyn.context.ui",1359054330807
+stopped,bundle,org.eclipse.mylyn.help.ui,3.6.1.v20110830-0100,"org.eclipse.mylyn.help.ui",1359054330808
+stopped,bundle,org.eclipse.mylyn.tasks.bugs,3.6.1.v20110825-0100,"org.eclipse.mylyn.tasks.bugs",1359054330808
+stopped,bundle,org.eclipse.mylyn.tasks.ui,3.6.5.v20120215-0100,"org.eclipse.mylyn.tasks.ui",1359054330809
+stopped,bundle,org.eclipse.team.cvs.ui,3.3.401.v20120126-1227,"org.eclipse.team.cvs.ui",1359054330809
+stopped,bundle,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui",1359054330809
+stopped,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1359054330809
+stopped,bundle,org.eclipse.ui.externaltools,3.2.0.v20111007_r372,"org.eclipse.ui.externaltools",1359054330809
+activated,perspective,org.eclipse.jdt.ui,,"org.eclipse.jdt.ui.JavaPerspective",1359056991647
+started,bundle,org.eclipse.osgi,3.7.2.v20120110-1415,"org.eclipse.osgi",1359056991659
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.200.v20110815-1438,"org.eclipse.equinox.simpleconfigurator",1359056991660
+started,bundle,com.ibm.icu,4.4.2.v20110823,"com.ibm.icu",1359056991661
+started,bundle,org.eclipse.core.contenttype,3.4.100.v20110423-0524,"org.eclipse.core.contenttype",1359056991661
+started,bundle,org.eclipse.core.databinding.observable,1.4.0.I20110222-0800,"org.eclipse.core.databinding.observable",1359056991662
+started,bundle,org.eclipse.core.expressions,3.4.300.v20110228,"org.eclipse.core.expressions",1359056991662
+started,bundle,org.eclipse.core.filebuffers,3.5.200.v20110928-1504,"org.eclipse.core.filebuffers",1359056991663
+started,bundle,org.eclipse.core.filesystem,1.3.100.v20110423-0524,"org.eclipse.core.filesystem",1359056991664
+started,bundle,org.eclipse.core.jobs,3.5.101.v20120113-1953,"org.eclipse.core.jobs",1359056991664
+started,bundle,org.eclipse.core.net,1.2.100.I20110511-0800,"org.eclipse.core.net",1359056991665
+started,bundle,org.eclipse.core.resources,3.7.101.v20120125-1505,"org.eclipse.core.resources",1359056991665
+started,bundle,org.eclipse.core.runtime,3.7.0.v20110110,"org.eclipse.core.runtime",1359056991666
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.100.v20100505,"org.eclipse.core.runtime.compatibility",1359056991667
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.200.v20110110,"org.eclipse.core.runtime.compatibility.auth",1359056991667
+started,bundle,org.eclipse.debug.core,3.7.1.v20111129-2031,"org.eclipse.debug.core",1359056991668
+started,bundle,org.eclipse.egit.core,1.3.0.201202151440-r,"org.eclipse.egit.core",1359056991668
+started,bundle,org.eclipse.egit.ui,1.3.0.201202151440-r,"org.eclipse.egit.ui",1359056991669
+started,bundle,org.eclipse.epp.mpc.ui,1.1.1.I20110907-0947,"org.eclipse.epp.mpc.ui",1359056991670
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201106061540,"org.eclipse.epp.usagedata.gathering",1359056991670
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201106061540,"org.eclipse.epp.usagedata.recording",1359056991671
+started,bundle,org.eclipse.equinox.app,1.3.100.v20110321,"org.eclipse.equinox.app",1359056991671
+started,bundle,org.eclipse.equinox.common,3.6.0.v20110523,"org.eclipse.equinox.common",1359056991671
+started,bundle,org.eclipse.equinox.ds,1.3.1.R37x_v20110701,"org.eclipse.equinox.ds",1359056991672
+started,bundle,org.eclipse.equinox.p2.core,2.1.1.v20120113-1346,"org.eclipse.equinox.p2.core",1359056991672
+started,bundle,org.eclipse.equinox.p2.engine,2.1.1.R37x_v20111003,"org.eclipse.equinox.p2.engine",1359056991673
+started,bundle,org.eclipse.equinox.p2.metadata,2.1.0.v20110815-1419,"org.eclipse.equinox.p2.metadata",1359056991673
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.2.0.v20110815-1419,"org.eclipse.equinox.p2.metadata.repository",1359056991674
+started,bundle,org.eclipse.equinox.p2.operations,2.1.1.R37x_v20111111,"org.eclipse.equinox.p2.operations",1359056991674
+started,bundle,org.eclipse.equinox.p2.repository,2.1.1.v20120113-1346,"org.eclipse.equinox.p2.repository",1359056991675
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.100.v20110815-1419,"org.eclipse.equinox.p2.ui.sdk.scheduler",1359056991675
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.200.v20110815-1419,"org.eclipse.equinox.p2.updatechecker",1359056991675
+started,bundle,org.eclipse.equinox.preferences,3.4.2.v20120111-2020,"org.eclipse.equinox.preferences",1359056991676
+started,bundle,org.eclipse.equinox.registry,3.5.101.R37x_v20110810-1611,"org.eclipse.equinox.registry",1359056991676
+started,bundle,org.eclipse.equinox.security,1.1.1.R37x_v20110822-1018,"org.eclipse.equinox.security",1359056991676
+started,bundle,org.eclipse.equinox.util,1.0.300.v20110502,"org.eclipse.equinox.util",1359056991677
+started,bundle,org.eclipse.help,3.5.100.v20110426,"org.eclipse.help",1359056991677
+started,bundle,org.eclipse.jdt.core,3.7.3.v20120119-1537,"org.eclipse.jdt.core",1359056991677
+started,bundle,org.eclipse.jdt.core.manipulation,1.4.0.v20110928-1453,"org.eclipse.jdt.core.manipulation",1359056991678
+started,bundle,org.eclipse.jdt.launching,3.6.1.v20111006_r372,"org.eclipse.jdt.launching",1359056991678
+started,bundle,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui",1359056991680
+started,bundle,org.eclipse.jface,3.7.0.v20110928-1505,"org.eclipse.jface",1359056991681
+started,bundle,org.eclipse.jgit,1.3.0.201202151440-r,"org.eclipse.jgit",1359056991681
+started,bundle,org.eclipse.jsch.core,1.1.300.I20110514-0800,"org.eclipse.jsch.core",1359056991681
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.6.5.v20120123-0100,"org.eclipse.mylyn.bugzilla.core",1359056991681
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.bugzilla.ui",1359056991682
+started,bundle,org.eclipse.mylyn.commons.identity,0.8.0.v20110608-1400,"org.eclipse.mylyn.commons.identity",1359056991682
+started,bundle,org.eclipse.mylyn.commons.net,3.6.0.v20110608-1400,"org.eclipse.mylyn.commons.net",1359056991682
+started,bundle,org.eclipse.mylyn.commons.ui,3.6.1.v20110720-0100,"org.eclipse.mylyn.commons.ui",1359056991683
+started,bundle,org.eclipse.mylyn.context.core,3.6.1.v20110720-0100,"org.eclipse.mylyn.context.core",1359056991683
+started,bundle,org.eclipse.mylyn.context.ui,3.6.1.v20120112-0100,"org.eclipse.mylyn.context.ui",1359056991683
+started,bundle,org.eclipse.mylyn.monitor.ui,3.6.0.v20110608-1400,"org.eclipse.mylyn.monitor.ui",1359056991684
+started,bundle,org.eclipse.mylyn.tasks.ui,3.6.5.v20120215-0100,"org.eclipse.mylyn.tasks.ui",1359056991684
+started,bundle,org.eclipse.mylyn.team.ui,3.6.1.v20110825-0100,"org.eclipse.mylyn.team.ui",1359056991685
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1359056991685
+started,bundle,org.eclipse.pde.ui,3.6.100.v20120103_r372,"org.eclipse.pde.ui",1359056991685
+started,bundle,org.eclipse.search,3.7.0.v20110928-1504,"org.eclipse.search",1359056991686
+started,bundle,org.eclipse.team.core,3.6.0.I20110525-0800,"org.eclipse.team.core",1359056991686
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1359056991686
+started,bundle,org.eclipse.team.cvs.ui,3.3.401.v20120126-1227,"org.eclipse.team.cvs.ui",1359056991687
+started,bundle,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui",1359056991688
+started,bundle,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui",1359056991688
+started,bundle,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console",1359056991689
+started,bundle,org.eclipse.ui.editors,3.7.0.v20110928-1504,"org.eclipse.ui.editors",1359056991689
+started,bundle,org.eclipse.ui.forms,3.5.101.v20111011-1919,"org.eclipse.ui.forms",1359056991689
+started,bundle,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.ui.ide",1359056991690
+started,bundle,org.eclipse.ui.net,1.2.100.v20111208-1155,"org.eclipse.ui.net",1359056991691
+started,bundle,org.eclipse.ui.views,3.6.0.v20110928-1505,"org.eclipse.ui.views",1359056991691
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1359056991691
+started,bundle,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"org.eclipse.ui.workbench",1359056991692
+started,bundle,org.eclipse.ui.workbench.texteditor,3.7.0.v20110928-1504,"org.eclipse.ui.workbench.texteditor",1359056991692
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1359056991693
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1359056991693
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1359056991693
+os,sysinfo,,,"linux",1359056991696

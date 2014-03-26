@@ -1,0 +1,530 @@
+package	TokenNamepackage	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+apache	TokenNameIdentifier	 apache
+.	TokenNameDOT	
+lucene	TokenNameIdentifier	 lucene
+.	TokenNameDOT	
+analysis	TokenNameIdentifier	 analysis
+.	TokenNameDOT	
+pt	TokenNameIdentifier	 pt
+;	TokenNameSEMICOLON	
+/** * Licensed to the Apache Software Foundation (ASF) under one or more * contributor license agreements. See the NOTICE file distributed with * this work for additional information regarding copyright ownership. * The ASF licenses this file to You under the Apache License, Version 2.0 * (the "License"); you may not use this file except in compliance with * the License. You may obtain a copy of the License at * * http://www.apache.org/licenses/LICENSE-2.0 * * Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an "AS IS" BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License. */	TokenNameCOMMENT_JAVADOC	 Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at * http://www.apache.org/licenses/LICENSE-2.0 * Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. 
+import	TokenNameimport	
+java	TokenNameIdentifier	 java
+.	TokenNameDOT	
+io	TokenNameIdentifier	 io
+.	TokenNameDOT	
+IOException	TokenNameIdentifier	 IO Exception
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+java	TokenNameIdentifier	 java
+.	TokenNameDOT	
+io	TokenNameIdentifier	 io
+.	TokenNameDOT	
+Reader	TokenNameIdentifier	 Reader
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+apache	TokenNameIdentifier	 apache
+.	TokenNameDOT	
+lucene	TokenNameIdentifier	 lucene
+.	TokenNameDOT	
+analysis	TokenNameIdentifier	 analysis
+.	TokenNameDOT	
+Analyzer	TokenNameIdentifier	 Analyzer
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+apache	TokenNameIdentifier	 apache
+.	TokenNameDOT	
+lucene	TokenNameIdentifier	 lucene
+.	TokenNameDOT	
+analysis	TokenNameIdentifier	 analysis
+.	TokenNameDOT	
+BaseTokenStreamTestCase	TokenNameIdentifier	 Base Token Stream Test Case
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+apache	TokenNameIdentifier	 apache
+.	TokenNameDOT	
+lucene	TokenNameIdentifier	 lucene
+.	TokenNameDOT	
+analysis	TokenNameIdentifier	 analysis
+.	TokenNameDOT	
+TokenStream	TokenNameIdentifier	 Token Stream
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+apache	TokenNameIdentifier	 apache
+.	TokenNameDOT	
+lucene	TokenNameIdentifier	 lucene
+.	TokenNameDOT	
+analysis	TokenNameIdentifier	 analysis
+.	TokenNameDOT	
+Tokenizer	TokenNameIdentifier	 Tokenizer
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+apache	TokenNameIdentifier	 apache
+.	TokenNameDOT	
+lucene	TokenNameIdentifier	 lucene
+.	TokenNameDOT	
+analysis	TokenNameIdentifier	 analysis
+.	TokenNameDOT	
+LowerCaseFilter	TokenNameIdentifier	 Lower Case Filter
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+apache	TokenNameIdentifier	 apache
+.	TokenNameDOT	
+lucene	TokenNameIdentifier	 lucene
+.	TokenNameDOT	
+analysis	TokenNameIdentifier	 analysis
+.	TokenNameDOT	
+KeywordTokenizer	TokenNameIdentifier	 Keyword Tokenizer
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+apache	TokenNameIdentifier	 apache
+.	TokenNameDOT	
+lucene	TokenNameIdentifier	 lucene
+.	TokenNameDOT	
+analysis	TokenNameIdentifier	 analysis
+.	TokenNameDOT	
+standard	TokenNameIdentifier	 standard
+.	TokenNameDOT	
+StandardTokenizer	TokenNameIdentifier	 Standard Tokenizer
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+apache	TokenNameIdentifier	 apache
+.	TokenNameDOT	
+lucene	TokenNameIdentifier	 lucene
+.	TokenNameDOT	
+analysis	TokenNameIdentifier	 analysis
+.	TokenNameDOT	
+ReusableAnalyzerBase	TokenNameIdentifier	 Reusable Analyzer Base
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+static	TokenNamestatic	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+apache	TokenNameIdentifier	 apache
+.	TokenNameDOT	
+lucene	TokenNameIdentifier	 lucene
+.	TokenNameDOT	
+analysis	TokenNameIdentifier	 analysis
+.	TokenNameDOT	
+VocabularyAssert	TokenNameIdentifier	 Vocabulary Assert
+.	TokenNameDOT	
+*	TokenNameMULTIPLY	
+;	TokenNameSEMICOLON	
+/** * Simple tests for {@link PortugueseLightStemFilter} */	TokenNameCOMMENT_JAVADOC	 Simple tests for {@link PortugueseLightStemFilter} 
+public	TokenNamepublic	
+class	TokenNameclass	
+TestPortugueseLightStemFilter	TokenNameIdentifier	 Test Portuguese Light Stem Filter
+extends	TokenNameextends	
+BaseTokenStreamTestCase	TokenNameIdentifier	 Base Token Stream Test Case
+{	TokenNameLBRACE	
+private	TokenNameprivate	
+Analyzer	TokenNameIdentifier	 Analyzer
+analyzer	TokenNameIdentifier	 analyzer
+=	TokenNameEQUAL	
+new	TokenNamenew	
+ReusableAnalyzerBase	TokenNameIdentifier	 Reusable Analyzer Base
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+{	TokenNameLBRACE	
+@	TokenNameAT	
+Override	TokenNameIdentifier	 Override
+protected	TokenNameprotected	
+TokenStreamComponents	TokenNameIdentifier	 Token Stream Components
+createComponents	TokenNameIdentifier	 create Components
+(	TokenNameLPAREN	
+String	TokenNameIdentifier	 String
+fieldName	TokenNameIdentifier	 field Name
+,	TokenNameCOMMA	
+Reader	TokenNameIdentifier	 Reader
+reader	TokenNameIdentifier	 reader
+)	TokenNameRPAREN	
+{	TokenNameLBRACE	
+Tokenizer	TokenNameIdentifier	 Tokenizer
+source	TokenNameIdentifier	 source
+=	TokenNameEQUAL	
+new	TokenNamenew	
+StandardTokenizer	TokenNameIdentifier	 Standard Tokenizer
+(	TokenNameLPAREN	
+TEST_VERSION_CURRENT	TokenNameIdentifier	 TEST  VERSION  CURRENT
+,	TokenNameCOMMA	
+reader	TokenNameIdentifier	 reader
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+TokenStream	TokenNameIdentifier	 Token Stream
+result	TokenNameIdentifier	 result
+=	TokenNameEQUAL	
+new	TokenNamenew	
+LowerCaseFilter	TokenNameIdentifier	 Lower Case Filter
+(	TokenNameLPAREN	
+TEST_VERSION_CURRENT	TokenNameIdentifier	 TEST  VERSION  CURRENT
+,	TokenNameCOMMA	
+source	TokenNameIdentifier	 source
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+return	TokenNamereturn	
+new	TokenNamenew	
+TokenStreamComponents	TokenNameIdentifier	 Token Stream Components
+(	TokenNameLPAREN	
+source	TokenNameIdentifier	 source
+,	TokenNameCOMMA	
+new	TokenNamenew	
+PortugueseLightStemFilter	TokenNameIdentifier	 Portuguese Light Stem Filter
+(	TokenNameLPAREN	
+result	TokenNameIdentifier	 result
+)	TokenNameRPAREN	
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+}	TokenNameRBRACE	
+;	TokenNameSEMICOLON	
+/** * Test the example from the paper "Assessing the impact of stemming accuracy * on information retrieval" */	TokenNameCOMMENT_JAVADOC	 Test the example from the paper "Assessing the impact of stemming accuracy on information retrieval" 
+public	TokenNamepublic	
+void	TokenNamevoid	
+testExamples	TokenNameIdentifier	 test Examples
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+throws	TokenNamethrows	
+IOException	TokenNameIdentifier	 IO Exception
+{	TokenNameLBRACE	
+assertAnalyzesTo	TokenNameIdentifier	 assert Analyzes To
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"O debate político, pelo menos o que vem a público, parece, de modo nada "	TokenNameStringLiteral	O debate político, pelo menos o que vem a público, parece, de modo nada 
++	TokenNamePLUS	
+"surpreendente, restrito a temas menores. Mas há, evidentemente, "	TokenNameStringLiteral	surpreendente, restrito a temas menores. Mas há, evidentemente, 
++	TokenNamePLUS	
+"grandes questões em jogo nas eleições que se aproximam."	TokenNameStringLiteral	grandes questões em jogo nas eleições que se aproximam.
+,	TokenNameCOMMA	
+new	TokenNamenew	
+String	TokenNameIdentifier	 String
+[	TokenNameLBRACKET	
+]	TokenNameRBRACKET	
+{	TokenNameLBRACE	
+"o"	TokenNameStringLiteral	o
+,	TokenNameCOMMA	
+"debat"	TokenNameStringLiteral	debat
+,	TokenNameCOMMA	
+"politic"	TokenNameStringLiteral	politic
+,	TokenNameCOMMA	
+"pelo"	TokenNameStringLiteral	pelo
+,	TokenNameCOMMA	
+"meno"	TokenNameStringLiteral	meno
+,	TokenNameCOMMA	
+"o"	TokenNameStringLiteral	o
+,	TokenNameCOMMA	
+"que"	TokenNameStringLiteral	que
+,	TokenNameCOMMA	
+"vem"	TokenNameStringLiteral	vem
+,	TokenNameCOMMA	
+"a"	TokenNameStringLiteral	a
+,	TokenNameCOMMA	
+"public"	TokenNameStringLiteral	public
+,	TokenNameCOMMA	
+"parec"	TokenNameStringLiteral	parec
+,	TokenNameCOMMA	
+"de"	TokenNameStringLiteral	de
+,	TokenNameCOMMA	
+"modo"	TokenNameStringLiteral	modo
+,	TokenNameCOMMA	
+"nada"	TokenNameStringLiteral	nada
+,	TokenNameCOMMA	
+"surpreendent"	TokenNameStringLiteral	surpreendent
+,	TokenNameCOMMA	
+"restrit"	TokenNameStringLiteral	restrit
+,	TokenNameCOMMA	
+"a"	TokenNameStringLiteral	a
+,	TokenNameCOMMA	
+"tema"	TokenNameStringLiteral	tema
+,	TokenNameCOMMA	
+"menor"	TokenNameStringLiteral	menor
+,	TokenNameCOMMA	
+"mas"	TokenNameStringLiteral	mas
+,	TokenNameCOMMA	
+"há"	TokenNameStringLiteral	há
+,	TokenNameCOMMA	
+"evident"	TokenNameStringLiteral	evident
+,	TokenNameCOMMA	
+"grand"	TokenNameStringLiteral	grand
+,	TokenNameCOMMA	
+"questa"	TokenNameStringLiteral	questa
+,	TokenNameCOMMA	
+"em"	TokenNameStringLiteral	em
+,	TokenNameCOMMA	
+"jogo"	TokenNameStringLiteral	jogo
+,	TokenNameCOMMA	
+"nas"	TokenNameStringLiteral	nas
+,	TokenNameCOMMA	
+"eleica"	TokenNameStringLiteral	eleica
+,	TokenNameCOMMA	
+"que"	TokenNameStringLiteral	que
+,	TokenNameCOMMA	
+"se"	TokenNameStringLiteral	se
+,	TokenNameCOMMA	
+"aproximam"	TokenNameStringLiteral	aproximam
+}	TokenNameRBRACE	
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+/** * Test examples from the c implementation */	TokenNameCOMMENT_JAVADOC	 Test examples from the c implementation 
+public	TokenNamepublic	
+void	TokenNamevoid	
+testMoreExamples	TokenNameIdentifier	 test More Examples
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+throws	TokenNamethrows	
+IOException	TokenNameIdentifier	 IO Exception
+{	TokenNameLBRACE	
+checkOneTerm	TokenNameIdentifier	 check One Term
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"doutores"	TokenNameStringLiteral	doutores
+,	TokenNameCOMMA	
+"doutor"	TokenNameStringLiteral	doutor
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+checkOneTerm	TokenNameIdentifier	 check One Term
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"doutor"	TokenNameStringLiteral	doutor
+,	TokenNameCOMMA	
+"doutor"	TokenNameStringLiteral	doutor
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+checkOneTerm	TokenNameIdentifier	 check One Term
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"homens"	TokenNameStringLiteral	homens
+,	TokenNameCOMMA	
+"homem"	TokenNameStringLiteral	homem
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+checkOneTerm	TokenNameIdentifier	 check One Term
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"homem"	TokenNameStringLiteral	homem
+,	TokenNameCOMMA	
+"homem"	TokenNameStringLiteral	homem
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+checkOneTerm	TokenNameIdentifier	 check One Term
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"papéis"	TokenNameStringLiteral	papéis
+,	TokenNameCOMMA	
+"papel"	TokenNameStringLiteral	papel
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+checkOneTerm	TokenNameIdentifier	 check One Term
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"papel"	TokenNameStringLiteral	papel
+,	TokenNameCOMMA	
+"papel"	TokenNameStringLiteral	papel
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+checkOneTerm	TokenNameIdentifier	 check One Term
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"normais"	TokenNameStringLiteral	normais
+,	TokenNameCOMMA	
+"normal"	TokenNameStringLiteral	normal
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+checkOneTerm	TokenNameIdentifier	 check One Term
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"normal"	TokenNameStringLiteral	normal
+,	TokenNameCOMMA	
+"normal"	TokenNameStringLiteral	normal
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+checkOneTerm	TokenNameIdentifier	 check One Term
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"lencóis"	TokenNameStringLiteral	lencóis
+,	TokenNameCOMMA	
+"lencol"	TokenNameStringLiteral	lencol
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+checkOneTerm	TokenNameIdentifier	 check One Term
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"lencol"	TokenNameStringLiteral	lencol
+,	TokenNameCOMMA	
+"lencol"	TokenNameStringLiteral	lencol
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+checkOneTerm	TokenNameIdentifier	 check One Term
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"barris"	TokenNameStringLiteral	barris
+,	TokenNameCOMMA	
+"barril"	TokenNameStringLiteral	barril
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+checkOneTerm	TokenNameIdentifier	 check One Term
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"barril"	TokenNameStringLiteral	barril
+,	TokenNameCOMMA	
+"barril"	TokenNameStringLiteral	barril
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+checkOneTerm	TokenNameIdentifier	 check One Term
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"botões"	TokenNameStringLiteral	botões
+,	TokenNameCOMMA	
+"bota"	TokenNameStringLiteral	bota
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+checkOneTerm	TokenNameIdentifier	 check One Term
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+"botão"	TokenNameStringLiteral	botão
+,	TokenNameCOMMA	
+"bota"	TokenNameStringLiteral	bota
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+/** Test against a vocabulary from the reference impl */	TokenNameCOMMENT_JAVADOC	 Test against a vocabulary from the reference impl 
+public	TokenNamepublic	
+void	TokenNamevoid	
+testVocabulary	TokenNameIdentifier	 test Vocabulary
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+throws	TokenNamethrows	
+IOException	TokenNameIdentifier	 IO Exception
+{	TokenNameLBRACE	
+assertVocabulary	TokenNameIdentifier	 assert Vocabulary
+(	TokenNameLPAREN	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+getDataFile	TokenNameIdentifier	 get Data File
+(	TokenNameLPAREN	
+"ptlighttestdata.zip"	TokenNameStringLiteral	ptlighttestdata.zip
+)	TokenNameRPAREN	
+,	TokenNameCOMMA	
+"ptlight.txt"	TokenNameStringLiteral	ptlight.txt
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+/** blast some random strings through the analyzer */	TokenNameCOMMENT_JAVADOC	 blast some random strings through the analyzer 
+public	TokenNamepublic	
+void	TokenNamevoid	
+testRandomStrings	TokenNameIdentifier	 test Random Strings
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+throws	TokenNamethrows	
+Exception	TokenNameIdentifier	 Exception
+{	TokenNameLBRACE	
+checkRandomData	TokenNameIdentifier	 check Random Data
+(	TokenNameLPAREN	
+random	TokenNameIdentifier	 random
+,	TokenNameCOMMA	
+analyzer	TokenNameIdentifier	 analyzer
+,	TokenNameCOMMA	
+10000	TokenNameIntegerLiteral	
+*	TokenNameMULTIPLY	
+RANDOM_MULTIPLIER	TokenNameIdentifier	 RANDOM  MULTIPLIER
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+public	TokenNamepublic	
+void	TokenNamevoid	
+testEmptyTerm	TokenNameIdentifier	 test Empty Term
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+throws	TokenNamethrows	
+IOException	TokenNameIdentifier	 IO Exception
+{	TokenNameLBRACE	
+Analyzer	TokenNameIdentifier	 Analyzer
+a	TokenNameIdentifier	 a
+=	TokenNameEQUAL	
+new	TokenNamenew	
+ReusableAnalyzerBase	TokenNameIdentifier	 Reusable Analyzer Base
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+{	TokenNameLBRACE	
+@	TokenNameAT	
+Override	TokenNameIdentifier	 Override
+protected	TokenNameprotected	
+TokenStreamComponents	TokenNameIdentifier	 Token Stream Components
+createComponents	TokenNameIdentifier	 create Components
+(	TokenNameLPAREN	
+String	TokenNameIdentifier	 String
+fieldName	TokenNameIdentifier	 field Name
+,	TokenNameCOMMA	
+Reader	TokenNameIdentifier	 Reader
+reader	TokenNameIdentifier	 reader
+)	TokenNameRPAREN	
+{	TokenNameLBRACE	
+Tokenizer	TokenNameIdentifier	 Tokenizer
+tokenizer	TokenNameIdentifier	 tokenizer
+=	TokenNameEQUAL	
+new	TokenNamenew	
+KeywordTokenizer	TokenNameIdentifier	 Keyword Tokenizer
+(	TokenNameLPAREN	
+reader	TokenNameIdentifier	 reader
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+return	TokenNamereturn	
+new	TokenNamenew	
+TokenStreamComponents	TokenNameIdentifier	 Token Stream Components
+(	TokenNameLPAREN	
+tokenizer	TokenNameIdentifier	 tokenizer
+,	TokenNameCOMMA	
+new	TokenNamenew	
+PortugueseLightStemFilter	TokenNameIdentifier	 Portuguese Light Stem Filter
+(	TokenNameLPAREN	
+tokenizer	TokenNameIdentifier	 tokenizer
+)	TokenNameRPAREN	
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+}	TokenNameRBRACE	
+;	TokenNameSEMICOLON	
+checkOneTermReuse	TokenNameIdentifier	 check One Term Reuse
+(	TokenNameLPAREN	
+a	TokenNameIdentifier	 a
+,	TokenNameCOMMA	
+""	TokenNameStringLiteral	 
+,	TokenNameCOMMA	
+""	TokenNameStringLiteral	 
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+}	TokenNameRBRACE	

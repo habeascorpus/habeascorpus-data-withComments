@@ -1,0 +1,33 @@
+                  TOPIC_1	0.10225	                  TOPIC_2	0.09100	                  TOPIC_3	0.08939	                  TOPIC_4	0.10695	
+
+                        '	0.04180	                predicted	0.13910	                 textBase	0.02639	                      use	0.04739	
+                toDataset	0.03289	                     stem	0.06878	            hasMoreTokens	0.02195	                 Instance	0.03778	
+                        !	0.02718	               characters	0.03336	               characters	0.02064	             transforming	0.02642	
+                  learner	0.02512	                      edu	0.03003	                     been	0.02038	               regression	0.02358	
+          finalClassifier	0.02010	                     been	0.02053	                        '	0.01907	                  labeled	0.02009	
+               characters	0.02010	               documentId	0.01951	                       go	0.01620	         taggerTestLabels	0.01965	
+                 Instance	0.01987	                        <	0.01206	                predicted	0.01489	                     like	0.01900	
+
+
+                  TOPIC_5	0.08983	                  TOPIC_6	0.06788	                  TOPIC_7	0.11594	                  TOPIC_8	0.08630	
+
+                 Instance	0.03536	                 textBase	0.01927	                        '	0.05761	                    Split	0.09200	
+                isCorrect	0.03120	                  desired	0.01514	                      the	0.03646	                 Instance	0.03734	
+    IllegalStateException	0.02522	               isNegative	0.01445	                 getLabel	0.02659	                   length	0.03112	
+         taggerTestLabels	0.02210	               characters	0.01411	            answeredQuery	0.02337	                     case	0.02381	
+                  hasNext	0.02158	                   little	0.01342	                 Splitter	0.02115	                        \	0.02273	
+             transforming	0.01872	                   report	0.01308	                 features	0.02095	                   update	0.02273	
+                   msgPat	0.01846	                        /	0.01239	                     been	0.01974	                        K	0.02030	
+
+
+                  TOPIC_9	0.10769	                 TOPIC_10	0.14277	
+
+             MultiDataset	0.05118	         setSelectedIndex	0.02176	
+                        (	0.03903	                   appear	0.02094	
+                 Instance	0.01887	                   Object	0.01832	
+                  learned	0.01887	            StatusMessage	0.01570	
+                  labeled	0.01735	                 selected	0.01554	
+           getExplanation	0.01410	           AbstractAction	0.01325	
+                      tag	0.01323	               characters	0.01309	
+
+

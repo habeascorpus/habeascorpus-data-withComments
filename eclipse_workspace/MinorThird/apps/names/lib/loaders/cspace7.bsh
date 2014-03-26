@@ -1,0 +1,11 @@
+import edu.cmu.minorthird.text.*;
+
+TextBaseLoader baseLoader = new TextBaseLoader();
+TextBase base = new BasicTextBase();
+baseLoader.loadTaggedFiles(base, new File(dataDir,"cspace/9-7-97"));
+MutableTextLabels labels = new BasicTextLabels(base);
+TextLabelsLoader labelsLoader = new TextLabelsLoader();
+labelsLoader.setClosurePolicy(TextLabelsLoader.CLOSE_ALL_TYPES);
+labelsLoader.importOps(labels, base, new File(labelDir,"cspace/9-7-97-names-corrected.env"));
+return labels;
+

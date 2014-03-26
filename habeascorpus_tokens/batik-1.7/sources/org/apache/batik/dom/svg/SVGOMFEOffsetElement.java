@@ -1,0 +1,349 @@
+/* Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. */	TokenNameCOMMENT_BLOCK	 Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership. The ASF licenses this file to You under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. 
+package	TokenNamepackage	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+apache	TokenNameIdentifier	 apache
+.	TokenNameDOT	
+batik	TokenNameIdentifier	 batik
+.	TokenNameDOT	
+dom	TokenNameIdentifier	 dom
+.	TokenNameDOT	
+svg	TokenNameIdentifier	 svg
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+apache	TokenNameIdentifier	 apache
+.	TokenNameDOT	
+batik	TokenNameIdentifier	 batik
+.	TokenNameDOT	
+dom	TokenNameIdentifier	 dom
+.	TokenNameDOT	
+AbstractDocument	TokenNameIdentifier	 Abstract Document
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+apache	TokenNameIdentifier	 apache
+.	TokenNameDOT	
+batik	TokenNameIdentifier	 batik
+.	TokenNameDOT	
+util	TokenNameIdentifier	 util
+.	TokenNameDOT	
+DoublyIndexedTable	TokenNameIdentifier	 Doubly Indexed Table
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+apache	TokenNameIdentifier	 apache
+.	TokenNameDOT	
+batik	TokenNameIdentifier	 batik
+.	TokenNameDOT	
+util	TokenNameIdentifier	 util
+.	TokenNameDOT	
+SVGTypes	TokenNameIdentifier	 SVG Types
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+w3c	TokenNameIdentifier	 w3c
+.	TokenNameDOT	
+dom	TokenNameIdentifier	 dom
+.	TokenNameDOT	
+Node	TokenNameIdentifier	 Node
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+w3c	TokenNameIdentifier	 w3c
+.	TokenNameDOT	
+dom	TokenNameIdentifier	 dom
+.	TokenNameDOT	
+svg	TokenNameIdentifier	 svg
+.	TokenNameDOT	
+SVGAnimatedNumber	TokenNameIdentifier	 SVG Animated Number
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+w3c	TokenNameIdentifier	 w3c
+.	TokenNameDOT	
+dom	TokenNameIdentifier	 dom
+.	TokenNameDOT	
+svg	TokenNameIdentifier	 svg
+.	TokenNameDOT	
+SVGAnimatedString	TokenNameIdentifier	 SVG Animated String
+;	TokenNameSEMICOLON	
+import	TokenNameimport	
+org	TokenNameIdentifier	 org
+.	TokenNameDOT	
+w3c	TokenNameIdentifier	 w3c
+.	TokenNameDOT	
+dom	TokenNameIdentifier	 dom
+.	TokenNameDOT	
+svg	TokenNameIdentifier	 svg
+.	TokenNameDOT	
+SVGFEOffsetElement	TokenNameIdentifier	 SVGFE Offset Element
+;	TokenNameSEMICOLON	
+/** * This class implements {@link SVGFEOffsetElement}. * * @author <a href="mailto:stephane@hillion.org">Stephane Hillion</a> * @version $Id: SVGOMFEOffsetElement.java 592621 2007-11-07 05:58:12Z cam $ */	TokenNameCOMMENT_JAVADOC	 This class implements {@link SVGFEOffsetElement}. * @author <a href="mailto:stephane@hillion.org">Stephane Hillion</a> @version $Id: SVGOMFEOffsetElement.java 592621 2007-11-07 05:58:12Z cam $ 
+public	TokenNamepublic	
+class	TokenNameclass	
+SVGOMFEOffsetElement	TokenNameIdentifier	 SVGOMFE Offset Element
+extends	TokenNameextends	
+SVGOMFilterPrimitiveStandardAttributes	TokenNameIdentifier	 SVGOM Filter Primitive Standard Attributes
+implements	TokenNameimplements	
+SVGFEOffsetElement	TokenNameIdentifier	 SVGFE Offset Element
+{	TokenNameLBRACE	
+/** * Table mapping XML attribute names to TraitInformation objects. */	TokenNameCOMMENT_JAVADOC	 Table mapping XML attribute names to TraitInformation objects. 
+protected	TokenNameprotected	
+static	TokenNamestatic	
+DoublyIndexedTable	TokenNameIdentifier	 Doubly Indexed Table
+xmlTraitInformation	TokenNameIdentifier	 xml Trait Information
+;	TokenNameSEMICOLON	
+static	TokenNamestatic	
+{	TokenNameLBRACE	
+DoublyIndexedTable	TokenNameIdentifier	 Doubly Indexed Table
+t	TokenNameIdentifier	 t
+=	TokenNameEQUAL	
+new	TokenNamenew	
+DoublyIndexedTable	TokenNameIdentifier	 Doubly Indexed Table
+(	TokenNameLPAREN	
+SVGOMFilterPrimitiveStandardAttributes	TokenNameIdentifier	 SVGOM Filter Primitive Standard Attributes
+.	TokenNameDOT	
+xmlTraitInformation	TokenNameIdentifier	 xml Trait Information
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+t	TokenNameIdentifier	 t
+.	TokenNameDOT	
+put	TokenNameIdentifier	 put
+(	TokenNameLPAREN	
+null	TokenNamenull	
+,	TokenNameCOMMA	
+SVG_IN_ATTRIBUTE	TokenNameIdentifier	 SVG  IN  ATTRIBUTE
+,	TokenNameCOMMA	
+new	TokenNamenew	
+TraitInformation	TokenNameIdentifier	 Trait Information
+(	TokenNameLPAREN	
+true	TokenNametrue	
+,	TokenNameCOMMA	
+SVGTypes	TokenNameIdentifier	 SVG Types
+.	TokenNameDOT	
+TYPE_CDATA	TokenNameIdentifier	 TYPE  CDATA
+)	TokenNameRPAREN	
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+t	TokenNameIdentifier	 t
+.	TokenNameDOT	
+put	TokenNameIdentifier	 put
+(	TokenNameLPAREN	
+null	TokenNamenull	
+,	TokenNameCOMMA	
+SVG_DX_ATTRIBUTE	TokenNameIdentifier	 SVG  DX  ATTRIBUTE
+,	TokenNameCOMMA	
+new	TokenNamenew	
+TraitInformation	TokenNameIdentifier	 Trait Information
+(	TokenNameLPAREN	
+true	TokenNametrue	
+,	TokenNameCOMMA	
+SVGTypes	TokenNameIdentifier	 SVG Types
+.	TokenNameDOT	
+TYPE_NUMBER	TokenNameIdentifier	 TYPE  NUMBER
+)	TokenNameRPAREN	
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+t	TokenNameIdentifier	 t
+.	TokenNameDOT	
+put	TokenNameIdentifier	 put
+(	TokenNameLPAREN	
+null	TokenNamenull	
+,	TokenNameCOMMA	
+SVG_DY_ATTRIBUTE	TokenNameIdentifier	 SVG  DY  ATTRIBUTE
+,	TokenNameCOMMA	
+new	TokenNamenew	
+TraitInformation	TokenNameIdentifier	 Trait Information
+(	TokenNameLPAREN	
+true	TokenNametrue	
+,	TokenNameCOMMA	
+SVGTypes	TokenNameIdentifier	 SVG Types
+.	TokenNameDOT	
+TYPE_NUMBER	TokenNameIdentifier	 TYPE  NUMBER
+)	TokenNameRPAREN	
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+xmlTraitInformation	TokenNameIdentifier	 xml Trait Information
+=	TokenNameEQUAL	
+t	TokenNameIdentifier	 t
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+/** * The 'in' attribute value. */	TokenNameCOMMENT_JAVADOC	 The 'in' attribute value. 
+protected	TokenNameprotected	
+SVGOMAnimatedString	TokenNameIdentifier	 SVGOM Animated String
+in	TokenNameIdentifier	 in
+;	TokenNameSEMICOLON	
+/** * The 'dx' attribute value. */	TokenNameCOMMENT_JAVADOC	 The 'dx' attribute value. 
+protected	TokenNameprotected	
+SVGOMAnimatedNumber	TokenNameIdentifier	 SVGOM Animated Number
+dx	TokenNameIdentifier	 dx
+;	TokenNameSEMICOLON	
+/** * The 'dy' attribute value. */	TokenNameCOMMENT_JAVADOC	 The 'dy' attribute value. 
+protected	TokenNameprotected	
+SVGOMAnimatedNumber	TokenNameIdentifier	 SVGOM Animated Number
+dy	TokenNameIdentifier	 dy
+;	TokenNameSEMICOLON	
+/** * Creates a new SVGOMFEOffsetElement object. */	TokenNameCOMMENT_JAVADOC	 Creates a new SVGOMFEOffsetElement object. 
+protected	TokenNameprotected	
+SVGOMFEOffsetElement	TokenNameIdentifier	 SVGOMFE Offset Element
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+{	TokenNameLBRACE	
+}	TokenNameRBRACE	
+/** * Creates a new SVGOMFEOffsetElement object. * @param prefix The namespace prefix. * @param owner The owner document. */	TokenNameCOMMENT_JAVADOC	 Creates a new SVGOMFEOffsetElement object. @param prefix The namespace prefix. @param owner The owner document. 
+public	TokenNamepublic	
+SVGOMFEOffsetElement	TokenNameIdentifier	 SVGOMFE Offset Element
+(	TokenNameLPAREN	
+String	TokenNameIdentifier	 String
+prefix	TokenNameIdentifier	 prefix
+,	TokenNameCOMMA	
+AbstractDocument	TokenNameIdentifier	 Abstract Document
+owner	TokenNameIdentifier	 owner
+)	TokenNameRPAREN	
+{	TokenNameLBRACE	
+super	TokenNamesuper	
+(	TokenNameLPAREN	
+prefix	TokenNameIdentifier	 prefix
+,	TokenNameCOMMA	
+owner	TokenNameIdentifier	 owner
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+initializeLiveAttributes	TokenNameIdentifier	 initialize Live Attributes
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+/** * Initializes all live attributes for this element. */	TokenNameCOMMENT_JAVADOC	 Initializes all live attributes for this element. 
+protected	TokenNameprotected	
+void	TokenNamevoid	
+initializeAllLiveAttributes	TokenNameIdentifier	 initialize All Live Attributes
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+{	TokenNameLBRACE	
+super	TokenNamesuper	
+.	TokenNameDOT	
+initializeAllLiveAttributes	TokenNameIdentifier	 initialize All Live Attributes
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+initializeLiveAttributes	TokenNameIdentifier	 initialize Live Attributes
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+/** * Initializes the live attribute values of this element. */	TokenNameCOMMENT_JAVADOC	 Initializes the live attribute values of this element. 
+private	TokenNameprivate	
+void	TokenNamevoid	
+initializeLiveAttributes	TokenNameIdentifier	 initialize Live Attributes
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+{	TokenNameLBRACE	
+in	TokenNameIdentifier	 in
+=	TokenNameEQUAL	
+createLiveAnimatedString	TokenNameIdentifier	 create Live Animated String
+(	TokenNameLPAREN	
+null	TokenNamenull	
+,	TokenNameCOMMA	
+SVG_IN_ATTRIBUTE	TokenNameIdentifier	 SVG  IN  ATTRIBUTE
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+dx	TokenNameIdentifier	 dx
+=	TokenNameEQUAL	
+createLiveAnimatedNumber	TokenNameIdentifier	 create Live Animated Number
+(	TokenNameLPAREN	
+null	TokenNamenull	
+,	TokenNameCOMMA	
+SVG_DX_ATTRIBUTE	TokenNameIdentifier	 SVG  DX  ATTRIBUTE
+,	TokenNameCOMMA	
+0f	TokenNameFloatingPointLiteral	
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+dy	TokenNameIdentifier	 dy
+=	TokenNameEQUAL	
+createLiveAnimatedNumber	TokenNameIdentifier	 create Live Animated Number
+(	TokenNameLPAREN	
+null	TokenNamenull	
+,	TokenNameCOMMA	
+SVG_DY_ATTRIBUTE	TokenNameIdentifier	 SVG  DY  ATTRIBUTE
+,	TokenNameCOMMA	
+0f	TokenNameFloatingPointLiteral	
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+/** * <b>DOM</b>: Implements {@link Node#getLocalName()}. */	TokenNameCOMMENT_JAVADOC	 <b>DOM</b>: Implements {@link Node#getLocalName()}. 
+public	TokenNamepublic	
+String	TokenNameIdentifier	 String
+getLocalName	TokenNameIdentifier	 get Local Name
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+{	TokenNameLBRACE	
+return	TokenNamereturn	
+SVG_FE_OFFSET_TAG	TokenNameIdentifier	 SVG  FE  OFFSET  TAG
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+/** * <b>DOM</b>: Implements {@link * SVGFEOffsetElement#getIn1()}. */	TokenNameCOMMENT_JAVADOC	 <b>DOM</b>: Implements {@link SVGFEOffsetElement#getIn1()}. 
+public	TokenNamepublic	
+SVGAnimatedString	TokenNameIdentifier	 SVG Animated String
+getIn1	TokenNameIdentifier	 get In1
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+{	TokenNameLBRACE	
+return	TokenNamereturn	
+in	TokenNameIdentifier	 in
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+/** * <b>DOM</b>: Implements {@link * org.w3c.dom.svg.SVGFEOffsetElement#getDx()}. */	TokenNameCOMMENT_JAVADOC	 <b>DOM</b>: Implements {@link org.w3c.dom.svg.SVGFEOffsetElement#getDx()}. 
+public	TokenNamepublic	
+SVGAnimatedNumber	TokenNameIdentifier	 SVG Animated Number
+getDx	TokenNameIdentifier	 get Dx
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+{	TokenNameLBRACE	
+return	TokenNamereturn	
+dx	TokenNameIdentifier	 dx
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+/** * <b>DOM</b>: Implements {@link * org.w3c.dom.svg.SVGFEOffsetElement#getDy()}. */	TokenNameCOMMENT_JAVADOC	 <b>DOM</b>: Implements {@link org.w3c.dom.svg.SVGFEOffsetElement#getDy()}. 
+public	TokenNamepublic	
+SVGAnimatedNumber	TokenNameIdentifier	 SVG Animated Number
+getDy	TokenNameIdentifier	 get Dy
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+{	TokenNameLBRACE	
+return	TokenNamereturn	
+dy	TokenNameIdentifier	 dy
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+/** * Returns a new uninitialized instance of this object's class. */	TokenNameCOMMENT_JAVADOC	 Returns a new uninitialized instance of this object's class. 
+protected	TokenNameprotected	
+Node	TokenNameIdentifier	 Node
+newNode	TokenNameIdentifier	 new Node
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+{	TokenNameLBRACE	
+return	TokenNamereturn	
+new	TokenNamenew	
+SVGOMFEOffsetElement	TokenNameIdentifier	 SVGOMFE Offset Element
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+/** * Returns the table of TraitInformation objects for this element. */	TokenNameCOMMENT_JAVADOC	 Returns the table of TraitInformation objects for this element. 
+protected	TokenNameprotected	
+DoublyIndexedTable	TokenNameIdentifier	 Doubly Indexed Table
+getTraitInformationTable	TokenNameIdentifier	 get Trait Information Table
+(	TokenNameLPAREN	
+)	TokenNameRPAREN	
+{	TokenNameLBRACE	
+return	TokenNamereturn	
+xmlTraitInformation	TokenNameIdentifier	 xml Trait Information
+;	TokenNameSEMICOLON	
+}	TokenNameRBRACE	
+}	TokenNameRBRACE	

@@ -1,0 +1,20 @@
+ -----
+ Introduction
+ -----
+ Hervé Boutemy
+ -----
+ 2011-10-16
+ -----
+
+Maven Plugin API
+
+ The API for plugins - Mojos - development.
+
+ A plugin is described in a {{{./plugin.html}<<<META-INF/maven/plugin.xml>>> plugin descriptor}},
+ generally generated from plugin sources using {{{/plugins/maven-plugin-plugin/}maven-plugin-plugin}}.
+
+* See Also
+
+ * {{{/developers/mojo-api-specification.html}Mojo API Specification}}
+
+ * {{{/plugin-tools/}plugin-tools}}, containing {{{/plugins/maven-plugin-plugin/}maven-plugin-plugin}}

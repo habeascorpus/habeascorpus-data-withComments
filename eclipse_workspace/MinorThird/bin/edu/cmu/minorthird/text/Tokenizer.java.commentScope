@@ -1,0 +1,12 @@
+/* Copyright 2007, Carnegie Mellon, All Rights Reserved */
+
+package edu.cmu.minorthird.text;
+
+public interface Tokenizer 
+{
+    public String[] splitIntoTokens(String string);
+
+    /** Tokenize a document. */
+    public TextToken[] splitIntoTokens(Document document);
+}
+

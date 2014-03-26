@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/bsh.jar"/>
+	<classpathentry kind="lib" path="lib/colt.jar"/>
+	<classpathentry kind="lib" path="lib/com.jar"/>
+	<classpathentry kind="lib" path="lib/CRF.jar"/>
+	<classpathentry kind="lib" path="lib/jcommon-0.8.8.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-0.9.13.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
+	<classpathentry kind="lib" path="lib/jwf.jar"/>
+	<classpathentry kind="lib" path="lib/LBFGS.jar"/>
+	<classpathentry kind="lib" path="lib/LBFGS.java"/>
+	<classpathentry kind="lib" path="lib/LBJ2Library.jar"/>
+	<classpathentry kind="lib" path="lib/LBJPOS.jar"/>
+	<classpathentry kind="lib" path="lib/libsvm.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="lib/Mcsrch.java"/>
+	<classpathentry kind="lib" path="lib/secondstring.jar"/>
+	<classpathentry kind="lib" path="lib/third-party.html"/>
+	<classpathentry kind="lib" path="lib/trove.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

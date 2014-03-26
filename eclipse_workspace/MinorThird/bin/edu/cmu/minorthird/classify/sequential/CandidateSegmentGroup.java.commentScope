@@ -1,0 +1,46 @@
+/* Copyright 2003-2004, Carnegie Mellon, All Rights Reserved */
+
+package edu.cmu.minorthird.classify.sequential;
+
+import edu.cmu.minorthird.classify.*;
+import java.util.*;
+
+
+public interface CandidateSegmentGroup extends HasSubpopulationId
+{
+  /** Return the length of the original sequence that the segments
+   * were derived from.
+   */
+	public int getSequenceLength(); 
+
+  /** Return the maximum segment length.
+   */
+	public int getMaxWindowSize();
+
+  /** Number of instances stored.
+   */
+	public int size();
+
+  /** Return the example corresponding to the segment from positions start..end
+   */
+	public Example getSubsequenceExample(int start,int end);
+
+  /** Return the class label associated with getSubsequenceExample(start,end).
+   */
+	public ClassLabel getSubsequenceLabel(int start,int end);
+
+  /** Return the instance corresponding to the segment from positions start...end.
+   */
+	public Instance getSubsequenceInstance(int start,int end);
+
+  /** Return the set of strings associated with ClassLabels on any of the stored segments.
+   */
+	public Set<String> classNameSet();
+
+  /** Return the subpopulationId for the original sequence.
+   */
+	@Override
+	public String getSubpopulationId();
+}
+
+

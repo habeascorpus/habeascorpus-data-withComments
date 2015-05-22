@@ -23,7 +23,7 @@ Associated Software
 ===================
 
 An eclipse plugin based on the ACL paper above and enables comment word-completion can be found in:
-http://www.cs.cmu.edu/~dmovshov/software.html#commentcompletion
+http://www.cs.cmu.edu/~dmovshov#commentcompletion
 
 Acknowledgment
 ==============

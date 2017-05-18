@@ -121,7 +121,7 @@ seed	TokenNameIdentifier	 seed
 ;	TokenNameSEMICOLON	
 // Murmur is faster than an SHA-based approach and provides as-good collision 	TokenNameCOMMENT_LINE	Murmur is faster than an SHA-based approach and provides as-good collision 
 // resistance. The combinatorial generation approach described in 	TokenNameCOMMENT_LINE	resistance. The combinatorial generation approach described in 
-// http://www.eecs.harvard.edu/~kirsch/pubs/bbbf/esa06.pdf 	TokenNameCOMMENT_LINE	http://www.eecs.harvard.edu/~kirsch/pubs/bbbf/esa06.pdf 
+// https://www.eecs.harvard.edu/~michaelm/postscripts/tr-02-05.pdf 	TokenNameCOMMENT_LINE	http://www.eecs.harvard.edu/~kirsch/pubs/bbbf/esa06.pdf 
 // does prove to work in actual tests, and is obviously faster 	TokenNameCOMMENT_LINE	does prove to work in actual tests, and is obviously faster 
 // than performing further iterations of murmur. 	TokenNameCOMMENT_LINE	than performing further iterations of murmur. 
 long	TokenNamelong	
